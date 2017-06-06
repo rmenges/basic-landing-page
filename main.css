@@ -1,0 +1,74 @@
+html, body{
+  overflow: auto;
+  overflow-x: hidden;
+  margin: 0;
+  height: 100%;
+  font-family: 'Open Sans','sans-serif';
+  font-weight: 100;
+  font-size: 22px;
+}
+
+section {
+  position: relative;
+  margin:0 -9999rem;
+  padding: 5.25rem 9999rem;
+  text-align: center;
+}
+
+#welcomesection{
+  font-size: 35px;
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+
+#about{
+  background-color: #3498db;
+  color: #ffffff;
+}
+
+#about p, #skills p{
+  padding: 0 75px;
+  text-align: center;
+}
+
+#skills{
+  background-color: #e74c3c;
+  color: #ffffff;
+}
+
+.sectionImg {
+  position: relative;
+  margin:0 -9999rem;
+  padding: 5.25rem 9999rem;
+  text-align: center;
+}
+
+#work{
+  background-color: #f39c12;
+  color: #ffffff;
+}
+
+img{
+  padding: 5px 5px 5px 5px;
+}
+
+#contact{
+  background-color: #ffffff;
+  color: #999999;
+
+  position: relative;
+  margin:0 -9999rem;
+  padding: 5.25rem 9999rem;
+  text-align: center;
+}
+
+::-webkit-scrollbar{
+  display: none;
+
+}
+
+
+
+@@media only screen and {max-device-width: 999px){
+
+}
