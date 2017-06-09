@@ -17,8 +17,13 @@ section {
 
 #welcomesection{
   font-size: 35px;
+  background-image: url(images/image2.png);
   background-color: #1abc9c;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
   color: #ffffff;
+
 }
 
 #about{
@@ -34,6 +39,11 @@ section {
 #skills{
   background-color: #e74c3c;
   color: #ffffff;
+}
+
+#skills, ul{
+  list-style-type: none;
+
 }
 
 .sectionImg {
