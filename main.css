@@ -8,6 +8,7 @@ html, body{
   font-size: 22px;
 }
 
+
 section {
   position: relative;
   margin:0 -9999rem;
@@ -23,6 +24,8 @@ section {
   background-size: contain;
   background-repeat: no-repeat;
   color: #ffffff;
+  padding: 10.25rem 9999rem;
+
 
 }
 
